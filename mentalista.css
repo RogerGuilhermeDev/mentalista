@@ -1,0 +1,33 @@
+body {
+    background: url("https://thehypestuff.com/wp-content/uploads/2019/02/Kanye-Wests-Entire-Ye-Album-Debuted-on-Billboard-Hot-100.jpg");
+    font: normal 10pt Arial;
+}
+
+header {
+color: white;
+text-align: center;
+}
+
+section {
+background: rgba(255, 255, 255, 0.719);
+border-radius: 10px;
+padding: 15px;
+width: 500px;
+margin: auto;
+text-align: center;
+box-shadow: rgb(131, 131, 131) 5px 5px 0px;
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+p {
+    text-decoration-color: red;
+}
+
+footer {
+text-align: center;
+font-style: italic;
+}
